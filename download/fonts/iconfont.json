@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "606309",
+      "name": "国旗",
+      "font_class": "guoqiflag49",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "8776715",
+      "name": "time",
+      "font_class": "icon-test",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "13343173",
+      "name": "animation-stop",
+      "font_class": "animation-stop",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "13343174",
+      "name": "animation-pause",
+      "font_class": "animation-pause",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    }
+  ]
+}
